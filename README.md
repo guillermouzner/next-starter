@@ -1,0 +1,1 @@
+Starter project for [Next.js](https://nextjs.org/) with appDirectory
